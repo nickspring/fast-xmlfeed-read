@@ -1,3 +1,6 @@
 !.gitignore
 .idea
 test.xml
+/build/
+/dist/
+/fxfr.egg-info/
